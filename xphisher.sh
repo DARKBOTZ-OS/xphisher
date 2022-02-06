@@ -6,7 +6,7 @@
 ##   Github 	: 	https://github.com/DARKBOTZ-OS
 
 ##   THANKS TO :
-##   linuxchoice 
+##   htr-tech 
 
 
 ## If you Copy Then Give the credits :)
@@ -155,7 +155,7 @@ banner() {
 		${ORANGE}        | |                                
 		${ORANGE}        |_|                ${RED}Version : 1.5
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN}Thanks to linuxchoice recreated by @DGABHI ${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN}Thanks to htr-tech recreated by @DGABHI ${WHITE}
 	EOF
 }
 
@@ -299,7 +299,7 @@ about() {
 	cat <<- EOF
 		${GREEN}Version  ${RED}:  ${ORANGE}1.5
 
-		${REDBG}${WHITE} Thanks : linuxchoice ${RESETBG}
+		${REDBG}${WHITE} Thanks : htr-tech ${RESETBG}
 
 		${RED}Warning:${WHITE}
 		${CYAN}This Tool is made for educational purpose only ${RED}!${WHITE}
