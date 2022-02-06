@@ -153,9 +153,9 @@ banner() {
 		${ORANGE}  / . \ | |_) | | | | \__ \ | | |  __/ |   
 		${ORANGE} /_/ \_\| .__/|_| |_|_|___/_| |_|\___|_|   
 		${ORANGE}        | |                                
-		${ORANGE}        |_|                ${RED}Version : 2.2
+		${ORANGE}        |_|                ${RED}Version : 1.5
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN}Thanks to linuxchoice recreated by @DGABHI ${WHITE}
 	EOF
 }
 
